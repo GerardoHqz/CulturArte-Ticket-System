@@ -1,0 +1,7 @@
+div.ant-picker-input{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 14vw;
+    justify-content: space-between;
+    gap: 5%;
+}

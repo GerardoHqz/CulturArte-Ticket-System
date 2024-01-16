@@ -1,0 +1,113 @@
+[
+    {
+      "id":"id123456",
+      "Titulo": "Concierto de música en vivo",
+      "Fecha": "2023-07-15",
+      "Hora": "19:00",
+      "Direccion": "Calle Principal 123",
+      "Categoria": [1, 2],
+      "Descripcion": "Disfruta de una noche llena de música en vivo con artistas locales.",
+      "Patrocinadores": ["Coca-Cola", "Grupo Roble"],
+      "Tiers": [
+        {
+          "Nombre": "General",
+          "Cantidad": 100,
+          "Precio": 20
+        },
+        {
+          "Nombre": "VIP",
+          "Cantidad": 50,
+          "Precio": 50
+        }
+      ]
+    },
+    {
+        "id":"id987654",
+      "Titulo": "Noche de danza folklórica",
+      "Fecha": "2023-08-10",
+      "Hora": "20:30",
+      "Direccion": "Avenida Central 456",
+      "Categoria": [2],
+      "Descripcion": "Disfruta de una magnífica presentación de danzas folklóricas de diferentes países.",
+      "Patrocinadores": ["Mastercard", "Pepsi"],
+      "Tiers": [
+        {
+          "Nombre": "Regular",
+          "Cantidad": 150,
+          "Precio": 15
+        },
+        {
+          "Nombre": "Preferencial",
+          "Cantidad": 80,
+          "Precio": 30
+        },
+        {
+          "Nombre": "VIP",
+          "Cantidad": 30,
+          "Precio": 60
+        }
+      ]
+    },
+    {
+        "id":"id456789",
+      "Titulo": "Festival de cine independiente",
+      "Fecha": "2023-09-05",
+      "Hora": "18:00",
+      "Direccion": "Plaza Principal",
+      "Categoria": [3],
+      "Descripcion": "Disfruta de una selección de películas independientes de diversos géneros.",
+      "Patrocinadores": ["Coca-Cola"],
+      "Tiers": [
+        {
+          "Nombre": "Entrada general",
+          "Cantidad": 200,
+          "Precio": 10
+        }
+      ]
+    },
+    {
+        "id":"id654321",
+      "Titulo": "Exposición de arte contemporáneo",
+      "Fecha": "2023-10-20",
+      "Hora": "10:00",
+      "Direccion": "Galería de Arte Moderno",
+      "Categoria": [4],
+      "Descripcion": "Explora las obras de artistas contemporáneos reconocidos a nivel mundial.",
+      "Patrocinadores": ["Grupo Roble"],
+      "Tiers": [
+        {
+          "Nombre": "Entrada estándar",
+          "Cantidad": 300,
+          "Precio": 12
+        },
+        {
+          "Nombre": "Visita guiada",
+          "Cantidad": 50,
+          "Precio": 25
+        }
+      ]
+    },
+    {
+        "id":"id789012",
+      "Titulo": "Tarde literaria con autores invitados",
+      "Fecha": "2023-11-08",
+      "Hora": "16:00",
+      "Direccion": "Biblioteca Municipal",
+      "Categoria": [5],
+      "Descripcion": "Disfruta de charlas y lecturas de reconocidos autores de la literatura contemporánea.",
+      "Patrocinadores": ["Mastercard"],
+      "Tiers": [
+        {
+          "Nombre": "Entrada general",
+          "Cantidad": 100,
+          "Precio": 8
+        },
+        {
+          "Nombre": "Meet & Greet",
+          "Cantidad": 20,
+          "Precio": 35
+        }
+      ]
+    }
+  ]
+    
